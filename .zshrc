@@ -556,3 +556,4 @@ alias personal='cp -Rf /personal/* ~'
 #cpufetch
 #colorscript random
 #hyfetch
+eval "$(starship init zsh)"
